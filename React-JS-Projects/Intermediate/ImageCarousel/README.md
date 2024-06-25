@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align='center'><b>💥 IMAGE CAROUSEL 💥</b></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
-## Available Scripts
+<h3 align='center'>Tech Stack Used 🎮</h3>
+<!-- enlist all the technologies used to create this project from them (Remove comment using 'ctrl+z' or 'command+z') -->
 
-In the project directory, you can run:
+<div align='center'>
 
-### `npm start`
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
-### `npm test`
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :zap: Description 📃
 
-### `npm run build`
+<div>
+  <!-- <p>Add Description of the project</p> -->
+    <p>This project is a react.js project that converts between currencies</p>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :zap: How to run it? 🕹️
 
-### `npm run eject`
+<!-- Add steps how to run this project -->
+To run this project locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Fork the repository.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Clone the repository to your local computer:
+    git clone https://github.com/your-username/Image-Carousel-Clone.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Open the project folder in your preferred code editor, now you can view website in live.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :zap: Screenshots 📸
+<!-- add the screenshot of the project (Mandatory) -->
 
-### Code Splitting
+<img src='./screenshot.webp'>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 
-### Making a Progressive Web App
+<h4 align='center'>Developed By <b><i>Mogalapu Sriram Chowdary</i></b> 👦</h4>
+<p align='center'>
+  <a href='https://www.linkedin.com/in/sriram-chowdary-mogalapu-899500185/'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  <a href='https://github.com/SriramChowdaryMogalapu'>
+    <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
+  </a>
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h4 align='center'>Happy Coding 🧑‍💻</h4>
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
